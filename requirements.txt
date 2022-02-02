@@ -1,0 +1,11 @@
+pandas
+numpy
+random
+scipy
+statsmodels
+matplotlib
+seaborn
+sklearn
+GEOparse
+os
+math
